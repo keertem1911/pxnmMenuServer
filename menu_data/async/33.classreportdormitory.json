@@ -1,0 +1,18 @@
+[
+  {
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "cab6225d079342329e886a08447f3c5d",
+    "text": "按楼层平均分配",
+    "pid": "5abdbb6baf184ed99e8a1ac1341b39e4",
+    "orderIndex": 13,
+    "resourcePath": "/px/classreportuser/createDomitoryAvg",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_CLASSREPORT_CLASSDOMITORY_AVG",
+    "isLog": "Y",
+    "leaf": true
+  }
+  ]

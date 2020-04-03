@@ -1,0 +1,18 @@
+[
+      {
+        "authzId": "4028fb816cb9730c016cb9759af10003",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "4028fb816cb9730c016cb9759aee0002",
+        "text": "培训公寓房间使用情况",
+        "pid": "836de814bcfd49e78ebcbc4e5862761f",
+        "orderIndex": 1,
+        "resourcePath": "PX_TRAINBASEDORMITORY_MANAGER",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_TRAINBASEDORMITORY_MANAGER",
+        "isLog": "Y",
+        "leaf": true
+      }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "authzId": "de20806219254d06b77dfde3c50b1a17",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "abcfed732757400d8a5e75c137d60423",
+    "text": "一键开班",
+    "pid": "cc1393ef3fd84c6fa962b36ef9502833",
+    "orderIndex": 1,
+    "resourcePath": "/px/classreport/addBatch",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_CLASSREPORT_BATCHADD",
+    "isLog": "Y",
+    "leaf": true
+  }, {
+    "authzId": "de20806219254d06b77dfde3c50b1a17",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "abcfed732757400d8a5e75c137d60423",
+    "text": "一键设置班主任",
+    "pid": "cc1393ef3fd84c6fa962b36ef9502833",
+    "orderIndex": 1,
+    "resourcePath": "/px/classreport/addBatchTeacher",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_CLASSREPORT_BATCHADDTEACHER",
+    "isLog": "Y",
+    "leaf": true
+  }
+]

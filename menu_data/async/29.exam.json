@@ -1,0 +1,35 @@
+[
+  {
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "4028fb816cb9730c016cb9759aee0002",
+    "text": "开启考试恢复",
+    "pid": "09dac4b65985419e94140682371850e7",
+    "orderIndex": 1,
+    "resourcePath": "/px/exam/updateBreakExamState",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_EXAMINATION_BREAKEXAM_PUBLISH",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  },  {
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "4028fb816cb9730c016cb9759aee0002",
+    "text": "关闭考试恢复",
+    "pid": "09dac4b65985419e94140682371850e7",
+    "orderIndex": 1,
+    "resourcePath": "/px/exam/updateBreakExamState",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_EXAMINATION_BREAKEXAM_UNPUBLISH",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  }
+]

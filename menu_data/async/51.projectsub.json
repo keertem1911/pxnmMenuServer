@@ -1,0 +1,20 @@
+[
+  {//培训项目四级
+    "text": "添加四级项目",
+    "resourcePath": "/px/projectsub/add",
+    "code": "PX_PROJECTSUB_ADD",
+    "order_index": 19
+  }, {
+    "text": "编辑四级项目",
+    "code": "PX_PROJECTSUB_UPDATE",
+    "resourcePath": "/px/projectsub/update",
+    "order_index": 20
+  }, {
+    "text": "删除四级项目",
+    "code": "PX_PROJECTSUB_DELETE",
+    "resourcePath": "/px/projectsub/delete"
+  }
+
+
+
+]

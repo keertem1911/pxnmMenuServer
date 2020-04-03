@@ -1,0 +1,19 @@
+[
+  {
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "4028fb816cb9730c016cb9759aee0002",
+    "text": "定为终稿状态",
+    "pid": "4028fb816cb2d3e2016cb2da9eab0000",
+    "orderIndex": 17,
+    "resourcePath": "/monthplan/center/updateEndState",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_MONTHPLANCENTER_END_STATE",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+   {
+  "authzId": "4028fb816cb9730c016cb9759af10003",
+  "type": "OPERATE",
+  "referencesId": null,
+  "id": "4028fb816cb9730c016cb9759aee0002",
+  "text": "编辑",
+  "pid": "5abdbb6baf184ed99e8a1ac1341b39e4",
+  "orderIndex": 10,
+  "resourcePath": "/system/user/updatePic",
+  "allowAuthz": "Y",
+  "remark": null,
+  "enabled": "Y",
+  "code": "SYSTEM_USERREL_UPDATE",
+  "isLog": "Y",
+  "icon": "/insstatic/image/icon/config.png",
+  "leaf": true
+}
+]

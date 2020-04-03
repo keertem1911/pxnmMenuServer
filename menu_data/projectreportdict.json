@@ -1,0 +1,53 @@
+[
+  {
+    "authzId": "876dffc18d584318bb1831a28d6d2ad9",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "af85eed797de4190aa102560cf823674",
+    "text": "添加",
+    "pid": "a20122003e8d4f75bd1c520dd7b276da",
+    "orderIndex": 1,
+    "resourcePath": "/px/projecrepordict/add",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_PROJECTREPORTDICT_ADD",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  },
+  {
+    "authzId": "876dffc18d584318bb1831a28d6d2ad9",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "af85eed797de4190aa102560cf823674",
+    "text": "编辑",
+    "pid": "a20122003e8d4f75bd1c520dd7b276da",
+    "orderIndex": 2,
+    "resourcePath": "/px/projecrepordict/update",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_PROJECTREPORTDICT_UPDATE",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  },
+  {
+    "authzId": "876dffc18d584318bb1831a28d6d2ad9",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "af85eed797de4190aa102560cf823674",
+    "text": "删除",
+    "pid": "a20122003e8d4f75bd1c520dd7b276da",
+    "orderIndex": 2,
+    "resourcePath": "/px/projecrepordict/delete",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_PROJECTREPORTDICT_DELETE",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  }
+]

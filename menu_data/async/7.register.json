@@ -1,0 +1,52 @@
+{
+  "authzId": "9243dee68eec40c2af8d02f82dfa813e",
+  "type": "MODULE",
+  "referencesId": null,
+  "id": "cd401048f2574c14b3bf85635ac330e5",
+  "text": "报到管理(内培)",
+  "pid": "627eae76d8b44ee995e52387a60914d9",
+  "orderIndex": 9,
+  "resourcePath": "App.sys.module.managerclassreportapply.registerinner.View",
+  "allowAuthz": "Y",
+  "remark": null,
+  "enabled": "Y",
+  "code": null,
+  "isLog": "N",
+  "icon": "/insstatic/image/icon/form.png",
+  "children": [
+    {
+      "authzId": "3aed10874b784e719b06842d8ba20788",
+      "type": "OPERATE",
+      "referencesId": null,
+      "id": "01bfd556f5934ebfa3c9ced0d0327377",
+      "text": "报道",
+      "pid": "cd401048f2574c14b3bf85635ac330e5",
+      "orderIndex": 1,
+      "resourcePath": "/px/classreportuser/updateRegisterUser",
+      "allowAuthz": "Y",
+      "remark": null,
+      "enabled": "Y",
+      "code": "PX_CLASSREPORT_REGISTER_USERINNER",
+      "isLog": "Y",
+      "icon": "/insstatic/image/icon/config.png",
+      "leaf": true
+    },
+    {
+      "authzId": "46e0f3bb65294c25a85bf7afe364b670",
+      "type": "OPERATE",
+      "referencesId": null,
+      "id": "a4e71d29b99e49fc8ff0046352225239",
+      "text": "未报到",
+      "pid": "cd401048f2574c14b3bf85635ac330e5",
+      "orderIndex": 2,
+      "resourcePath": "/px/classreportuser/updateRegisterUser",
+      "allowAuthz": "Y",
+      "remark": null,
+      "enabled": "Y",
+      "code": "PX_CLASSREPORT_UNREGISTER_USERINNER",
+      "isLog": "Y",
+      "icon": "/insstatic/image/icon/config.png",
+      "leaf": true
+    }
+  ]
+}

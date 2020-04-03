@@ -1,0 +1,69 @@
+[
+  {
+    "authzId": "4028fb816cb2d3e2016cb2da9fcd0001",
+    "type": "MODULE",
+    "referencesId": null,
+    "id": "627eae76d8b44ee995e52387a60914d8",
+    "text": "培训班成绩管理（基层）",
+    "pid": "4c8f3b2264654958a2524613bbb727e2",
+    "orderIndex": 12,
+    "resourcePath": "App.sys.module.classreportscore.inner.View",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": null,
+    "isLog": "N",
+    "icon": "/insstatic/image/icon/form.png",
+    "children": [
+      {
+        "authzId": "4028fb816cb9730c016cb9759af10003",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "4028fb816cb9730c016cb9759aee0002",
+        "text": "添加",
+        "pid": "627eae76d8b44ee995e52387a60914d8",
+        "orderIndex": 1,
+        "resourcePath": "/px/classreport/score/add",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_CLASSREPORTSCOREINNER_ADD",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      },{
+        "authzId": "4028fb816cb9730c016cb9759af10003",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "4028fb816cb9730c016cb9759aee0002",
+        "text": "编辑",
+        "pid": "627eae76d8b44ee995e52387a60914d8",
+        "orderIndex": 1,
+        "resourcePath": "/px/classreport/score/update",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_CLASSREPORTSCOREINNER_UPDATE",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      },{
+        "authzId": "4028fb816cb9730c016cb9759af10003",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "4028fb816cb9730c016cb9759aee0002",
+        "text": "删除",
+        "pid": "627eae76d8b44ee995e52387a60914d8",
+        "orderIndex": 1,
+        "resourcePath": "/px/classreport/score/delete",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_CLASSREPORTSCOREINNER_DELETE",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      }
+    ]
+  }
+]

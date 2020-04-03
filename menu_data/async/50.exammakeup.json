@@ -1,0 +1,14 @@
+[
+  {//考试补考
+    "text": "补考管理",
+    "resourcePath": "PX_EXAMINATION_MAKEUPUSER",
+    "code": "PX_EXAMINATION_MAKEUPUSER"
+  }, {//考试补考
+    "text": "添加人员",
+    "code": "PX_EXAMINATIONMAKEUP_ADD",
+    "resourcePath": "/px/examination/makeup/add"
+  }
+
+
+
+]

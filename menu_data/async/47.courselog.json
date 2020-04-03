@@ -1,0 +1,17 @@
+{
+  "authzId": "83b7dd7286d44d20887e665edc084842",
+  "type": "MODULE",
+  "referencesId": null,
+  "id": "b941d01a84cf47d2a1c1d676ebf19f2e",
+  "text": "课程表讲义管理",
+  "pid": "627eae76d8b44ee995e52387a60914d9",
+  "orderIndex": 4.3,
+  "resourcePath": "App.sys.module.coursefile.View",
+  "allowAuthz": "Y",
+  "remark": null,
+  "enabled": "Y",
+  "code": null,
+  "isLog": "N",
+  "icon": "/insstatic/image/icon/form.png",
+  "leaf": true
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "authzId": "4028fb816cb2d3e2016cb2da9fcd0001",
+    "type": "MODULE",
+    "referencesId": null,
+    "id": "eccc2557dfd94945b2e4b06d8b7073f9",
+    "text": "考试成绩预设管理",
+    "pid": "eccc2557dfd94945b2e4b06d8b7073f9",
+    "orderIndex": 12,
+    "resourcePath": "App.sys.module.examination.prescore.View",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": null,
+    "isLog": "N",
+    "children": [
+      {
+        "authzId": "4028fb816cb9730c016cb9759af10003",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "4028fb816cb9730c016cb9759aee0002",
+        "text": "添加人员",
+        "pid": "eccc2557dfd94945b2e4b06d8b7073f9",
+        "orderIndex": 1,
+        "resourcePath": "/px/examination/prescore/add",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_EXAMINATIONPRESCORE_ADD",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      },{
+        "authzId": "4028fb816cb9730c016cb9759af10003",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "4028fb816cb9730c016cb9759aee0002",
+        "text": "编辑",
+        "pid": "eccc2557dfd94945b2e4b06d8b7073f9",
+        "orderIndex": 2,
+        "resourcePath": "/px/examination/prescore/update",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_EXAMINATIONPRESCORE_UPDATE",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      },{
+        "authzId": "4028fb816cb9730c016cb9759af10003",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "4028fb816cb9730c016cb9759aee0002",
+        "text": "删除",
+        "pid": "eccc2557dfd94945b2e4b06d8b7073f9",
+        "orderIndex": 1,
+        "resourcePath": "/px/examination/prescore/delete",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_EXAMINATIONPRESCORE_DELETE",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      }
+    ]
+  }
+]

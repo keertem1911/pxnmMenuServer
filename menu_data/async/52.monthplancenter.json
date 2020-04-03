@@ -1,0 +1,21 @@
+[
+  {//月度培训安排
+    "text": "添加",
+    "resourcePath": "/monthplan/center/project/addOther",
+    "code": "PX_MONTHPLANCENTERPROJECT3_ADD",
+    "order_index": 18
+  }, {
+  "text": "编辑",
+  "code": "PX_MONTHPLANCENTERPROJECT3_UPDATE",
+  "resourcePath": "/monthplan/center/project/update",
+  "order_index": 19
+}, {
+  "text": "删除",
+  "code": "PX_MONTHPLANCENTERPROJECT3_DELETE",
+  "resourcePath": "/monthplan/center/project/delete",
+  "order_index": 20
+}
+
+
+
+]

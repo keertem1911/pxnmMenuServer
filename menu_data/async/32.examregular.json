@@ -1,0 +1,33 @@
+[
+  {
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "cab6225d079342329e886a08447f3c5d",
+    "text": "编辑出题规则",
+    "pid": "5abdbb6baf184ed99e8a1ac1341b39e4",
+    "orderIndex": 13,
+    "resourcePath": "/px/testpaperregulation/update",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_TESTPAPERREGULATION_UPDATE",
+    "isLog": "Y",
+    "leaf": true
+  }, {
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "cab6225d079342329e886a08447f3c5d",
+    "text": "编辑出题规则",
+    "pid": "5abdbb6baf184ed99e8a1ac1341b39e4",
+    "orderIndex": 13,
+    "resourcePath": "/px/testpaperregulation/update",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_TESTPAPERSKILLIDENTIFYREGULATION_UPDATE",
+    "isLog": "Y",
+    "leaf": true
+  },
+]

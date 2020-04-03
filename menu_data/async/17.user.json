@@ -1,0 +1,36 @@
+[
+  {
+    "authzId": "f529fe78ce7c4840b731f9db8cdafdc5",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "7a524a5d119241fdadf15d2df4216e66",
+    "text": "批量导入照片",
+    "pid": "daf796fae21c405983911eb836dd0a33",
+    "orderIndex": 7,
+    "resourcePath": "/system/user/updateBatchImgNoSave",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "BAT_USER_IMPORTIMG",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  },
+  {
+    "authzId": "db93bdc7e0984dc3a16b9ff9f22d8010",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "70fda72a278b4bda9345f842a05685b1",
+    "text": "批量保存照片",
+    "pid": "daf796fae21c405983911eb836dd0a33",
+    "orderIndex": 8,
+    "resourcePath": "/system/user/updateBatchImgSave",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "BAT_USER_IMPORTIMG2",
+    "isLog": "Y",
+    "icon": "/insstatic/image/icon/config.png",
+    "leaf": true
+  }
+]

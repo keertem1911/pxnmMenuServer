@@ -1,0 +1,70 @@
+[
+  {
+    "authzId": "c5e9e7d91a9d48e5a1b7cd74604a846e",
+    "type": "MODULE",
+    "referencesId": null,
+    "id": "0b019c098e0a4184971efb13e7dc0264",
+    "text": "阅卷教师管理",
+    "pid": "eccc2557dfd94945b2e4b06d8b7073f9",
+    "orderIndex": 3,
+    "resourcePath": "App.sys.module.examination.teacher.View",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": null,
+    "isLog": "N",
+    "children": [
+      {
+        "authzId": "c48f3eb60db5426aa6a1028f389d4cec",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "7c028d06d7894ebda87b3f9540fda727",
+        "text": "添加教师",
+        "pid": "0b019c098e0a4184971efb13e7dc0264",
+        "orderIndex": 1,
+        "resourcePath": "/px/testpaperquestion/saveQuestionTeacher",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_EXAMPAPAER_TEACHER_ADD",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      }
+    ]
+  },
+  {
+    "authzId": "c5e9e7d91a9d48e5a1b7cd74604a846e",
+    "type": "MODULE",
+    "referencesId": null,
+    "id": "0b019c098e0a4184971efb13e7dc0264",
+    "text": "阅卷教师管理",
+    "pid": "e7613724b43b442f87b4f40d8b631757",
+    "orderIndex": 3,
+    "resourcePath": "App.sys.module.skillidentify.teacherpaper.View",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": null,
+    "isLog": "N",
+    "children": [
+      {
+        "authzId": "c48f3eb60db5426aa6a1028f389d4cec",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "7c028d06d7894ebda87b3f9540fda727",
+        "text": "添加教师",
+        "pid": "0b019c098e0a4184971efb13e7dc0264",
+        "orderIndex": 1,
+        "resourcePath": "/px/testpaperquestion/saveQuestionTeacher",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_EXAMPAPERSI_TEACHER_ADD",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      }
+    ]
+  }
+]

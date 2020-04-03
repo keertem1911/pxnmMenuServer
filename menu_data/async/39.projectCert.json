@@ -1,0 +1,53 @@
+[
+{
+  "authzId": "96d0baaeee944ce5a4b308aac1fa1d05",
+  "type": "OPERATE",
+  "referencesId": null,
+  "id": "32c1e77364d242b9a73fc50f640fbc6e",
+  "text": "关联证书信息",
+  "pid": "f172b7d6e4194527a1d6295cf5d76b5d",
+  "orderIndex": 3,
+  "resourcePath": "BS_PXQUESTION_CERTIFICATES",
+  "allowAuthz": "Y",
+  "remark": null,
+  "enabled": "Y",
+  "code": "BS_PXQUESTION_CERTIFICATES",
+  "isLog": "Y",
+  "icon": "/insstatic/image/icon/config.png",
+  "leaf": true
+},
+  {
+  "authzId": "96d0baaeee944ce5a4b308aac1fa1d05",
+  "type": "OPERATE",
+  "referencesId": null,
+  "id": "32c1e77364d242b9a73fc50f640fbc6e",
+  "text": "添加证书类型",
+  "pid": "f172b7d6e4194527a1d6295cf5d76b5d",
+  "orderIndex": 3,
+  "resourcePath": "/px/project/addQualification",
+  "allowAuthz": "Y",
+  "remark": null,
+  "enabled": "Y",
+  "code": "PX_PROJECT_QUALIFICATIONS_ADD",
+  "isLog": "Y",
+  "icon": "/insstatic/image/icon/config.png",
+  "leaf": true
+},
+  {
+  "authzId": "96d0baaeee944ce5a4b308aac1fa1d05",
+  "type": "OPERATE",
+  "referencesId": null,
+  "id": "32c1e77364d242b9a73fc50f640fbc6e",
+  "text": "删除证书",
+  "pid": "f172b7d6e4194527a1d6295cf5d76b5d",
+  "orderIndex": 3,
+  "resourcePath": "/px/project/deleteQualifications",
+  "allowAuthz": "Y",
+  "remark": null,
+  "enabled": "Y",
+  "code": "PX_PROJECT_QUALIFICATIONS_DELETE",
+  "isLog": "Y",
+  "icon": "/insstatic/image/icon/config.png",
+  "leaf": true
+}
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "authzId": "cf6ac8d035054575bd1e3fd977819c51",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "4a5687ad15664c5094d1e8ff1ddd4b67",
+    "text": "快速生成考勤表",
+    "pid": "00fd4a9b7cba49beac19a5f8e68e3ded",
+    "orderIndex": 5,
+    "resourcePath": "/px/class/timesheet/addBatch",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_CLASSTIMESHEET_ADDBATCH",
+    "isLog": "Y",
+    "leaf": true
+  },{
+    "authzId": "cf6ac8d035054575bd1e3fd977819c51",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "4a5687ad15664c5094d1e8ff1ddd4b67",
+    "text": "快速生成考勤表",
+    "pid": "4028495b6c406f8b016c4076de670052",
+    "orderIndex": 5,
+    "resourcePath": "/px/class/timesheet/addBatch",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_CLASSTIMESHEETINNER_ADDBATCH",
+    "isLog": "Y",
+    "leaf": true
+  }
+]

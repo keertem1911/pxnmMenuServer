@@ -1,0 +1,54 @@
+[
+  {
+    "authzId": "636835994cb44ec2a4d4f7d51be8c6bf",
+    "type": "MODULE",
+    "referencesId": null,
+    "id": "a967ed8f1cb6456b8ad3cc7d0d9bd55a",
+    "text": "培训费用结算",
+    "pid": "26a3c67eca0b4968a9ea0c461b451c3e",
+    "orderIndex": 100,
+    "resourcePath": "App.sys.module.training.statements.View",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": null,
+    "isLog": "N",
+    "icon": "/insstatic/image/icon/form.png",
+    "children": [
+      {
+        "authzId": "5ed52c117a224ab68bb1187c29681bb5",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "9ec37d9837914e6a990a80eafa5e73fd",
+        "text": "添加",
+        "pid": "a967ed8f1cb6456b8ad3cc7d0d9bd55a",
+        "orderIndex": 100,
+        "resourcePath": "/px/training/time/add",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_TRAININGTIME_ADD",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      },{
+        "authzId": "5ed52c117a224ab68bb1187c29681bb5",
+        "type": "OPERATE",
+        "referencesId": null,
+        "id": "9ec37d9837914e6a990a80eafa5e73fd",
+        "text": "删除",
+        "pid": "a967ed8f1cb6456b8ad3cc7d0d9bd55a",
+        "orderIndex": 100,
+        "resourcePath": "/px/training/time/delete",
+        "allowAuthz": "Y",
+        "remark": null,
+        "enabled": "Y",
+        "code": "PX_TRAININGTIME_DELETE",
+        "isLog": "Y",
+        "icon": "/insstatic/image/icon/config.png",
+        "leaf": true
+      }
+
+    ]
+  }
+]

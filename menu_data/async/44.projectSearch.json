@@ -1,0 +1,17 @@
+[{
+  "authzId": "2c90808e6dcde5ae016dcde6fcea0011",
+  "type": "MODULE",
+  "referencesId": null,
+  "id": "2c90808e6dcde5ae016dcde6fce80010",
+  "text": "培训项目统计",
+  "pid": "ca37454b9a04485b94990aac9dd4afa8",
+  "orderIndex": 8,
+  "resourcePath": "App.sys.module.report.project.ProjectSearch",
+  "allowAuthz": "Y",
+  "remark": null,
+  "enabled": "Y",
+  "code": null,
+  "isLog": "N",
+  "icon": "/insstatic/image/icon/form.png",
+  "leaf": true
+}]

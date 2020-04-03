@@ -1,0 +1,33 @@
+[
+  {
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "cab6225d079342329e886a08447f3c5d",
+    "text": "导出人员头像信息",
+    "pid": "6fa3f77eed3a4ea38b81dadf5d2a3443",
+    "orderIndex": 13,
+    "resourcePath": "/px/classreportuser/exportClassReportUserHeader",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_CLASSREPORTSCORE_EXPORTUSERINFO",
+    "isLog": "Y",
+    "leaf": true
+  },{
+    "authzId": "4028fb816cb9730c016cb9759af10003",
+    "type": "OPERATE",
+    "referencesId": null,
+    "id": "cab6225d079342329e886a08447f3c5d",
+    "text": "导出考生成绩",
+    "pid": "6fa3f77eed3a4ea38b81dadf5d2a3443",
+    "orderIndex": 14,
+    "resourcePath": "PX_CLASSREPORTSCORE_EXPORTSCORE",
+    "allowAuthz": "Y",
+    "remark": null,
+    "enabled": "Y",
+    "code": "PX_CLASSREPORTSCORE_EXPORTSCORE",
+    "isLog": "Y",
+    "leaf": true
+  },
+]
