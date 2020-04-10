@@ -4,6 +4,7 @@ import com.example.demo.service.ImportService;
 import com.example.demo.service.ProjectClassifyService;
 import com.example.demo.service.ProjectService;
 import com.example.demo.service.SysUserService;
+import com.example.demo.service.sap.SapService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -24,6 +25,8 @@ public class UserController {
 
     @Autowired
     private ImportService importService;
+    @Autowired
+    private SapService sapService;
     @PostMapping(value = "/upload")
     @ResponseBody
     public String uploadExcel(HttpServletRequest request) throws Exception {
@@ -53,6 +56,8 @@ public class UserController {
     public String updateTuiyang(HttpServletRequest request) throws Exception {
 
         int num=sysUserService.updateTuiyang();
+        //减少sap数量
+        sapService.updateErpData(15);
         return "success,更新数量="+num;
     }
 
